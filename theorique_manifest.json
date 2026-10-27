@@ -1,0 +1,263 @@
+[
+  {
+    "year": 2026,
+    "name": "bac-theorique-2026-bd.pdf",
+    "url": "http://bacweb.tn/bac/2026/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données / STI (Théorique)",
+    "status": "success",
+    "sizeBytes": 6734658,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2026\\bac-theorique-2026-bd.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2025,
+    "name": "bac-theorique-2025-bd.pdf",
+    "url": "http://bacweb.tn/bac/2025/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données / STI (Théorique)",
+    "status": "success",
+    "sizeBytes": 6014982,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2025\\bac-theorique-2025-bd.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2024,
+    "name": "bac-theorique-2024-sti.pdf",
+    "url": "http://bacweb.tn/bac/2024/principale/informatique/sti.pdf",
+    "source": "bacweb.tn (nommé sti.pdf)",
+    "epreuve": "STI / Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 10338682,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2024\\bac-theorique-2024-sti.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2023,
+    "name": "bac-theorique-2023-sti.pdf",
+    "url": "http://bacweb.tn/bac/2023/principale/informatique/sti.pdf",
+    "source": "bacweb.tn (nommé sti.pdf)",
+    "epreuve": "STI / Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 4975451,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2023\\bac-theorique-2023-sti.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2022,
+    "name": "bac-theorique-2022-bd.pdf",
+    "url": "http://bacweb.tn/bac/2022/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 1851206,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2022\\bac-theorique-2022-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2022-sti-corrige.pdf",
+      "sizeBytes": 422420,
+      "url": "2022/bac-theorique-2022-sti-corrige.pdf"
+    }
+  },
+  {
+    "year": 2021,
+    "name": "bac-theorique-2021-bd.pdf",
+    "url": "http://bacweb.tn/bac/2021/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 1707399,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2021\\bac-theorique-2021-bd.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2020,
+    "name": "bac-theorique-2020-bd.pdf",
+    "url": "http://bacweb.tn/bac/2020/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 1400815,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2020\\bac-theorique-2020-bd.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2019,
+    "name": "bac-theorique-2019-bd.pdf",
+    "url": "http://bacweb.tn/bac/2019/principale/informatique/BD.pdf",
+    "source": "bacweb.tn (BD.pdf en majuscules)",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 1318451,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2019\\bac-theorique-2019-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2019-bd-corrige.pdf",
+      "sizeBytes": 347371,
+      "url": "2019/bac-theorique-2019-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2018,
+    "name": "bac-theorique-2018-bd.pdf",
+    "url": "http://bacweb.tn/bac/2018/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 617882,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2018\\bac-theorique-2018-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2018-bd-corrige.pdf",
+      "sizeBytes": 120929,
+      "url": "2018/bac-theorique-2018-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2017,
+    "name": "bac-theorique-2017-bd.pdf",
+    "url": "http://bacweb.tn/bac/2017/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 1086842,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2017\\bac-theorique-2017-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2017-bd-corrige.pdf",
+      "sizeBytes": 347600,
+      "url": "2017/bac-theorique-2017-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2016,
+    "name": "bac-theorique-2016-bd.pdf",
+    "url": "http://bacweb.tn/bac/2016/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 1070802,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2016\\bac-theorique-2016-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2016-bd-corrige.pdf",
+      "sizeBytes": 363552,
+      "url": "2016/bac-theorique-2016-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2015,
+    "name": "bac-theorique-2015-bd.pdf",
+    "url": "http://bacweb.tn/bac/2015/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 1943041,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2015\\bac-theorique-2015-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2015-bd-corrige.pdf",
+      "sizeBytes": 595292,
+      "url": "2015/bac-theorique-2015-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "name": "bac-theorique-2014-bd.pdf",
+    "url": "http://bacweb.tn/bac/2014/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 866323,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2014\\bac-theorique-2014-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2014-bd-corrige.pdf",
+      "sizeBytes": 583060,
+      "url": "2014/bac-theorique-2014-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "name": "bac-theorique-2013-bd.pdf",
+    "url": "http://bacweb.tn/bac/2013/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 389202,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2013\\bac-theorique-2013-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2013-bd-corrige.pdf",
+      "sizeBytes": 477556,
+      "url": "2013/bac-theorique-2013-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "name": "bac-theorique-2012-bd.pdf",
+    "url": "http://bacweb.tn/bac/2012/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 3891649,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2012\\bac-theorique-2012-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2012-bd-corrige.pdf",
+      "sizeBytes": 453618,
+      "url": "2012/bac-theorique-2012-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2011,
+    "name": "bac-theorique-2011-bd.pdf",
+    "url": "http://bacweb.tn/bac/2011/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 2393514,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2011\\bac-theorique-2011-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2011-bd-corrige.pdf",
+      "sizeBytes": 297255,
+      "url": "2011/bac-theorique-2011-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2010,
+    "name": "bac-theorique-2010-bd.pdf",
+    "url": "http://bacweb.tn/bac/2010/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 557404,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2010\\bac-theorique-2010-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2010-bd-corrige.pdf",
+      "sizeBytes": 589943,
+      "url": "2010/bac-theorique-2010-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2009,
+    "name": "bac-theorique-2009-bd.pdf",
+    "url": "http://bacweb.tn/bac/2009/principale/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 540296,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2009\\bac-theorique-2009-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2009-bd-corrige.pdf",
+      "sizeBytes": 394943,
+      "url": "2009/bac-theorique-2009-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2008,
+    "name": "bac-theorique-2008-bd.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2008/bacbd2008scinfo.pdf",
+    "source": "kiteb.net (absent sur bacweb.tn)",
+    "epreuve": "Bases de Données (Théorique)",
+    "status": "success",
+    "sizeBytes": 478835,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2008\\bac-theorique-2008-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2008-bd-corrige.pdf",
+      "sizeBytes": 101680,
+      "url": "2008/bac-theorique-2008-bd-corrige.pdf"
+    }
+  }
+]

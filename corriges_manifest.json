@@ -1,0 +1,612 @@
+{
+  "totalTheo": 26,
+  "totalPrat": 41,
+  "total": 67,
+  "theorique": [
+    {
+      "year": 2008,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2008-bd-corrige.pdf",
+      "url": "http://www.bacweb.tn/bac/principale2008/NR/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2008-bd-corrige.pdf",
+      "size": 101680
+    },
+    {
+      "year": 2008,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2008-controle-bd-corrige.pdf",
+      "url": "http://www.bacweb.tn/bac/controle2008/NR/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2008-controle-bd-corrige.pdf",
+      "size": 114986
+    },
+    {
+      "year": 2009,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2009-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2009/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2009-bd-corrige.pdf",
+      "size": 394943
+    },
+    {
+      "year": 2009,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2009-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2009/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2009-controle-bd-corrige.pdf",
+      "size": 381371
+    },
+    {
+      "year": 2010,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2010-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2010/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2010-bd-corrige.pdf",
+      "size": 589943
+    },
+    {
+      "year": 2010,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2010-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2010/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2010-controle-bd-corrige.pdf",
+      "size": 665069
+    },
+    {
+      "year": 2011,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2011-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2011/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2011-bd-corrige.pdf",
+      "size": 297255
+    },
+    {
+      "year": 2011,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2011-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2011/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2011-controle-bd-corrige.pdf",
+      "size": 376887
+    },
+    {
+      "year": 2012,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2012-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2012/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2012-bd-corrige.pdf",
+      "size": 453618
+    },
+    {
+      "year": 2012,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2012-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2012/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2012-controle-bd-corrige.pdf",
+      "size": 426551
+    },
+    {
+      "year": 2013,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2013-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2013/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2013-bd-corrige.pdf",
+      "size": 477556
+    },
+    {
+      "year": 2013,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2013-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2013/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2013-controle-bd-corrige.pdf",
+      "size": 501037
+    },
+    {
+      "year": 2014,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2014-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2014/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2014-bd-corrige.pdf",
+      "size": 583060
+    },
+    {
+      "year": 2014,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2014-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2014/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2014-controle-bd-corrige.pdf",
+      "size": 476237
+    },
+    {
+      "year": 2015,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2015-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2015/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2015-bd-corrige.pdf",
+      "size": 595292
+    },
+    {
+      "year": 2015,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2015-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2015/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2015-controle-bd-corrige.pdf",
+      "size": 736339
+    },
+    {
+      "year": 2016,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2016-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2016/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2016-bd-corrige.pdf",
+      "size": 363552
+    },
+    {
+      "year": 2016,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2016-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2016/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2016-controle-bd-corrige.pdf",
+      "size": 638612
+    },
+    {
+      "year": 2017,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2017-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2017/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2017-bd-corrige.pdf",
+      "size": 347600
+    },
+    {
+      "year": 2017,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2017-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2017/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2017-controle-bd-corrige.pdf",
+      "size": 377173
+    },
+    {
+      "year": 2018,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2018-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2018/principale/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2018-bd-corrige.pdf",
+      "size": 120929
+    },
+    {
+      "year": 2018,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2018-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2018/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2018-controle-bd-corrige.pdf",
+      "size": 199298
+    },
+    {
+      "year": 2019,
+      "session": "principale",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2019-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2019/principale/informatique/BD_c.pdf",
+      "destFile": "bac-theorique-2019-bd-corrige.pdf",
+      "size": 347371
+    },
+    {
+      "year": 2019,
+      "session": "controle",
+      "epreuve": "BD",
+      "filename": "bac-theorique-2019-controle-bd-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2019/controle/informatique/bd_c.pdf",
+      "destFile": "bac-theorique-2019-controle-bd-corrige.pdf",
+      "size": 318568
+    },
+    {
+      "year": 2022,
+      "session": "principale",
+      "epreuve": "STI",
+      "filename": "bac-theorique-2022-sti-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2022/principale/informatique/sti_c.pdf",
+      "destFile": "bac-theorique-2022-sti-corrige.pdf",
+      "size": 422420
+    },
+    {
+      "year": 2022,
+      "session": "controle",
+      "epreuve": "STI",
+      "filename": "bac-theorique-2022-controle-sti-corrige.pdf",
+      "url": "http://bacweb.tn/bac/2022/controle/informatique/sti_c.pdf",
+      "destFile": "bac-theorique-2022-controle-sti-corrige.pdf",
+      "size": 432736
+    }
+  ],
+  "pratique": [
+    {
+      "year": 2010,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-24052010-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2010/bac-pratique-24052010-tic-corrige1.zip",
+      "size": 7874
+    },
+    {
+      "year": 2011,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-23052011-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2011/bac-pratique-23052011-tic-corrige1.zip",
+      "size": 18975
+    },
+    {
+      "year": 2012,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-21052012-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2012/bac-pratique-21052012-tic-corrige1.zip",
+      "size": 60604
+    },
+    {
+      "year": 2012,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-21052012-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2012/bac-pratique-21052012-tic-corrige2.zip",
+      "size": 16351
+    },
+    {
+      "year": 2013,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-20052013-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2013/bac-pratique-20052013-tic-corrige1.zip",
+      "size": 31405
+    },
+    {
+      "year": 2013,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-20052013-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2013/bac-pratique-20052013-tic-corrige2.zip",
+      "size": 65489
+    },
+    {
+      "year": 2014,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-19052014-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2014/bac-pratique-19052014-tic-corrige1.zip",
+      "size": 15071
+    },
+    {
+      "year": 2014,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-19052014-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2014/bac-pratique-19052014-tic-corrige2.zip",
+      "size": 24742
+    },
+    {
+      "year": 2015,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-18052015-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2015/bac-pratique-18052015-tic-corrige1.zip",
+      "size": 36669
+    },
+    {
+      "year": 2015,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-18052015-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2015/bac-pratique-18052015-tic-corrige2.zip",
+      "size": 11852
+    },
+    {
+      "year": 2016,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-16052016-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2016/bac-pratique-16052016-tic-corrige1.zip",
+      "size": 17305
+    },
+    {
+      "year": 2016,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-16052016-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2016/bac-pratique-16052016-tic-corrige2.zip",
+      "size": 15615
+    },
+    {
+      "year": 2017,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-22052017-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2017/bac-pratique-22052017-tic-corrige1.zip",
+      "size": 607296
+    },
+    {
+      "year": 2017,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-22052017-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2017/bac-pratique-22052017-tic-corrige2.zip",
+      "size": 21004
+    },
+    {
+      "year": 2018,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-21052018-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2018/bac-pratique-21052018-tic-corrige1.zip",
+      "size": 360755
+    },
+    {
+      "year": 2018,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-21052018-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2018/bac-pratique-21052018-tic-corrige2.zip",
+      "size": 3967
+    },
+    {
+      "year": 2018,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-21052018-tic-corrige3.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2018/bac-pratique-21052018-tic-corrige3.zip",
+      "size": 26334
+    },
+    {
+      "year": 2018,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-21052018-tic-corrige4.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2018/bac-pratique-21052018-tic-corrige4.zip",
+      "size": 500
+    },
+    {
+      "year": 2018,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-21052018-tic-corrige5.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2018/bac-pratique-21052018-tic-corrige5.zip",
+      "size": 16705
+    },
+    {
+      "year": 2019,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-27052019-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2019/bac-pratique-27052019-tic-corrige1.zip",
+      "size": 7316
+    },
+    {
+      "year": 2019,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-27052019-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2019/bac-pratique-27052019-tic-corrige2.zip",
+      "size": 5506
+    },
+    {
+      "year": 2019,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-27052019-tic-corrige3.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2019/bac-pratique-27052019-tic-corrige3.zip",
+      "size": 4847
+    },
+    {
+      "year": 2019,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-27052019-tic-corrige4.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2019/bac-pratique-27052019-tic-corrige4.zip",
+      "size": 6333
+    },
+    {
+      "year": 2019,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-27052019-tic-corrige5.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2019/bac-pratique-27052019-tic-corrige5.zip",
+      "size": 7316
+    },
+    {
+      "year": 2020,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-24062020-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2020/bac-pratique-24062020-tic-corrige1.zip",
+      "size": 10612
+    },
+    {
+      "year": 2020,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-24062020-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2020/bac-pratique-24062020-tic-corrige2.zip",
+      "size": 11152
+    },
+    {
+      "year": 2020,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-24062020-tic-corrige3.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2020/bac-pratique-24062020-tic-corrige3.zip",
+      "size": 593406
+    },
+    {
+      "year": 2020,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-24062020-tic-corrige4.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2020/bac-pratique-24062020-tic-corrige4.zip",
+      "size": 5159
+    },
+    {
+      "year": 2020,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-24062020-tic-corrige5.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2020/bac-pratique-24062020-tic-corrige5.zip",
+      "size": 10793
+    },
+    {
+      "year": 2021,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-03062021-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2021/bac-pratique-03062021-tic-corrige1.zip",
+      "size": 5056
+    },
+    {
+      "year": 2021,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-03062021-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2021/bac-pratique-03062021-tic-corrige2.zip",
+      "size": 5287
+    },
+    {
+      "year": 2021,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-03062021-tic-corrige3.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2021/bac-pratique-03062021-tic-corrige3.zip",
+      "size": 20844
+    },
+    {
+      "year": 2021,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-03062021-tic-corrige4.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2021/bac-pratique-03062021-tic-corrige4.zip",
+      "size": 7214
+    },
+    {
+      "year": 2022,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-23052022-tic-corrige1.pdf",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2022/bac-pratique-23052022-tic-corrige1.pdf",
+      "size": 788559
+    },
+    {
+      "year": 2022,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-23052022-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2022/bac-pratique-23052022-tic-corrige2.zip",
+      "size": 6181
+    },
+    {
+      "year": 2022,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-23052022-tic-corrige3.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2022/bac-pratique-23052022-tic-corrige3.zip",
+      "size": 6783
+    },
+    {
+      "year": 2022,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-23052022-tic-corrige4.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2022/bac-pratique-23052022-tic-corrige4.zip",
+      "size": 8898
+    },
+    {
+      "year": 2023,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-22052023-tic-corrige1.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2023/bac-pratique-22052023-tic-corrige1.zip",
+      "size": 6861
+    },
+    {
+      "year": 2023,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-22052023-tic-corrige2.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2023/bac-pratique-22052023-tic-corrige2.zip",
+      "size": 7453
+    },
+    {
+      "year": 2023,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-22052023-tic-corrige3.zip",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2023/bac-pratique-22052023-tic-corrige3.zip",
+      "size": 5091
+    },
+    {
+      "year": 2023,
+      "nature": "pratique",
+      "section": "Sciences de l'informatique",
+      "epreuve": "TIC",
+      "filename": "bac-pratique-22052023-tic-corrige4.rar",
+      "url": "https://kiteb.net/education/informatique/bac/bacinfo2023/bac-pratique-22052023-tic-corrige4.rar",
+      "size": 4961
+    }
+  ]
+}

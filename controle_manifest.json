@@ -1,0 +1,263 @@
+[
+  {
+    "year": 2026,
+    "name": "bac-theorique-2026-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2026/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données / STI (Contrôle)",
+    "status": "success",
+    "sizeBytes": 1654176,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2026\\bac-theorique-2026-controle-bd.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2025,
+    "name": "bac-theorique-2025-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2025/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données / STI (Contrôle)",
+    "status": "success",
+    "sizeBytes": 5912733,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2025\\bac-theorique-2025-controle-bd.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2024,
+    "name": "bac-theorique-2024-controle-sti.pdf",
+    "url": "http://bacweb.tn/bac/2024/controle/informatique/sti.pdf",
+    "source": "bacweb.tn (sti.pdf)",
+    "epreuve": "STI / Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 11269121,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2024\\bac-theorique-2024-controle-sti.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2023,
+    "name": "bac-theorique-2023-controle-sti.pdf",
+    "url": "http://bacweb.tn/bac/2023/controle/informatique/sti.pdf",
+    "source": "bacweb.tn (sti.pdf)",
+    "epreuve": "STI / Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 8235942,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2023\\bac-theorique-2023-controle-sti.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2022,
+    "name": "bac-theorique-2022-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2022/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 2151084,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2022\\bac-theorique-2022-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2022-controle-sti-corrige.pdf",
+      "sizeBytes": 432736,
+      "url": "2022/bac-theorique-2022-controle-sti-corrige.pdf"
+    }
+  },
+  {
+    "year": 2021,
+    "name": "bac-theorique-2021-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2021/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 1266713,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2021\\bac-theorique-2021-controle-bd.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2020,
+    "name": "bac-theorique-2020-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2020/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 744110,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2020\\bac-theorique-2020-controle-bd.pdf",
+    "corrige": null
+  },
+  {
+    "year": 2019,
+    "name": "bac-theorique-2019-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2019/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 1367671,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2019\\bac-theorique-2019-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2019-controle-bd-corrige.pdf",
+      "sizeBytes": 318568,
+      "url": "2019/bac-theorique-2019-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2018,
+    "name": "bac-theorique-2018-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2018/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 466831,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2018\\bac-theorique-2018-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2018-controle-bd-corrige.pdf",
+      "sizeBytes": 199298,
+      "url": "2018/bac-theorique-2018-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2017,
+    "name": "bac-theorique-2017-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2017/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 5127490,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2017\\bac-theorique-2017-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2017-controle-bd-corrige.pdf",
+      "sizeBytes": 377173,
+      "url": "2017/bac-theorique-2017-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2016,
+    "name": "bac-theorique-2016-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2016/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 1189234,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2016\\bac-theorique-2016-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2016-controle-bd-corrige.pdf",
+      "sizeBytes": 638612,
+      "url": "2016/bac-theorique-2016-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2015,
+    "name": "bac-theorique-2015-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2015/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 2623701,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2015\\bac-theorique-2015-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2015-controle-bd-corrige.pdf",
+      "sizeBytes": 736339,
+      "url": "2015/bac-theorique-2015-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2014,
+    "name": "bac-theorique-2014-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2014/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 671137,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2014\\bac-theorique-2014-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2014-controle-bd-corrige.pdf",
+      "sizeBytes": 476237,
+      "url": "2014/bac-theorique-2014-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2013,
+    "name": "bac-theorique-2013-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2013/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 360009,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2013\\bac-theorique-2013-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2013-controle-bd-corrige.pdf",
+      "sizeBytes": 501037,
+      "url": "2013/bac-theorique-2013-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2012,
+    "name": "bac-theorique-2012-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2012/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 2901012,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2012\\bac-theorique-2012-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2012-controle-bd-corrige.pdf",
+      "sizeBytes": 426551,
+      "url": "2012/bac-theorique-2012-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2011,
+    "name": "bac-theorique-2011-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2011/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 544344,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2011\\bac-theorique-2011-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2011-controle-bd-corrige.pdf",
+      "sizeBytes": 376887,
+      "url": "2011/bac-theorique-2011-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2010,
+    "name": "bac-theorique-2010-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2010/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 1229699,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2010\\bac-theorique-2010-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2010-controle-bd-corrige.pdf",
+      "sizeBytes": 665069,
+      "url": "2010/bac-theorique-2010-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2009,
+    "name": "bac-theorique-2009-controle-bd.pdf",
+    "url": "http://bacweb.tn/bac/2009/controle/informatique/bd.pdf",
+    "source": "bacweb.tn",
+    "epreuve": "Bases de Données (Contrôle)",
+    "status": "success",
+    "sizeBytes": 509736,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2009\\bac-theorique-2009-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2009-controle-bd-corrige.pdf",
+      "sizeBytes": 381371,
+      "url": "2009/bac-theorique-2009-controle-bd-corrige.pdf"
+    }
+  },
+  {
+    "year": 2008,
+    "name": "bac-theorique-2008-controle-bd.pdf",
+    "url": "http://www.bacweb.tn/bac/controle2008/NR/informatique/bd.pdf",
+    "source": "bacweb.tn/ibd.htm (NR/informatique/bd.pdf)",
+    "epreuve": "Bases de Données (Contrôle 2008)",
+    "status": "success",
+    "sizeBytes": 382187,
+    "localPath": "C:/xampp-school/htdocs/MesProjets/Sujets/2008/bac-theorique-2008-controle-bd.pdf",
+    "corrige": {
+      "filename": "bac-theorique-2008-controle-bd-corrige.pdf",
+      "sizeBytes": 114986,
+      "url": "2008/bac-theorique-2008-controle-bd-corrige.pdf"
+    }
+  }
+]

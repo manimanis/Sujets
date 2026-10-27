@@ -1,0 +1,661 @@
+[
+  {
+    "year": 2026,
+    "name": "bac-pratique-16052026-sti-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2026/bac-pratique-16052026-sti-8h30.pdf",
+    "desc": "STI - Samedi 16 mai 2026 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 1170452,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2026\\bac-pratique-16052026-sti-8h30.pdf",
+    "corriges": []
+  },
+  {
+    "year": 2026,
+    "name": "bac-pratique-16052026-sti-12h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2026/bac-pratique-16052026-sti-12h30.pdf",
+    "desc": "STI - Samedi 16 mai 2026 (12h30 - G2)",
+    "status": "success",
+    "sizeBytes": 1174165,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2026\\bac-pratique-16052026-sti-12h30.pdf",
+    "corriges": []
+  },
+  {
+    "year": 2026,
+    "name": "Sti2.rar",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2026/Sti2.rar",
+    "desc": "STI - Fichiers / Ressources RAR 2026",
+    "status": "success",
+    "sizeBytes": 3988238,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2026\\Sti2.rar",
+    "corriges": []
+  },
+  {
+    "year": 2025,
+    "name": "bac-pratique-19052025-sti-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2025/bac-pratique-19052025-sti-8h30.pdf",
+    "desc": "STI - Lundi 19 mai 2025 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 967457,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2025\\bac-pratique-19052025-sti-8h30.pdf",
+    "corriges": []
+  },
+  {
+    "year": 2024,
+    "name": "bac-pratique-20052024-sti-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2024/bac-pratique-20052024-sti-8h30.pdf",
+    "desc": "STI / TIC - Lundi 20 mai 2024 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 1379448,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2024\\bac-pratique-20052024-sti-8h30.pdf",
+    "corriges": []
+  },
+  {
+    "year": 2023,
+    "name": "bac-pratique-22052023-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2023/bac-pratique-22052023-tic-8h30.pdf",
+    "desc": "TIC - Lundi 22 mai 2023 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 1218283,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2023\\bac-pratique-22052023-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-22052023-tic-corrige1.zip",
+        "sizeBytes": 6861,
+        "url": "2023/bac-pratique-22052023-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-22052023-tic-corrige2.zip",
+        "sizeBytes": 7453,
+        "url": "2023/bac-pratique-22052023-tic-corrige2.zip"
+      },
+      {
+        "filename": "bac-pratique-22052023-tic-corrige3.zip",
+        "sizeBytes": 5091,
+        "url": "2023/bac-pratique-22052023-tic-corrige3.zip"
+      },
+      {
+        "filename": "bac-pratique-22052023-tic-corrige4.rar",
+        "sizeBytes": 4961,
+        "url": "2023/bac-pratique-22052023-tic-corrige4.rar"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "name": "bac-pratique-23052022-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2022/bac-pratique-23052022-tic-8h30.pdf",
+    "desc": "TIC - Lundi 23 mai 2022 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 683512,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2022\\bac-pratique-23052022-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-23052022-tic-corrige1.pdf",
+        "sizeBytes": 788559,
+        "url": "2022/bac-pratique-23052022-tic-corrige1.pdf"
+      },
+      {
+        "filename": "bac-pratique-23052022-tic-corrige2.zip",
+        "sizeBytes": 6181,
+        "url": "2022/bac-pratique-23052022-tic-corrige2.zip"
+      },
+      {
+        "filename": "bac-pratique-23052022-tic-corrige3.zip",
+        "sizeBytes": 6783,
+        "url": "2022/bac-pratique-23052022-tic-corrige3.zip"
+      },
+      {
+        "filename": "bac-pratique-23052022-tic-corrige4.zip",
+        "sizeBytes": 8898,
+        "url": "2022/bac-pratique-23052022-tic-corrige4.zip"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "bac-pratique-03062021-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2021/bac-pratique-03062021-tic-8h30.pdf",
+    "desc": "TIC - Jeudi 3 juin 2021 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 399148,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2021\\bac-pratique-03062021-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-03062021-tic-corrige1.zip",
+        "sizeBytes": 5056,
+        "url": "2021/bac-pratique-03062021-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-03062021-tic-corrige2.zip",
+        "sizeBytes": 5287,
+        "url": "2021/bac-pratique-03062021-tic-corrige2.zip"
+      },
+      {
+        "filename": "bac-pratique-03062021-tic-corrige3.zip",
+        "sizeBytes": 20844,
+        "url": "2021/bac-pratique-03062021-tic-corrige3.zip"
+      },
+      {
+        "filename": "bac-pratique-03062021-tic-corrige4.zip",
+        "sizeBytes": 7214,
+        "url": "2021/bac-pratique-03062021-tic-corrige4.zip"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "name": "bac-pratique-24062020-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2020/bac-pratique-24062020-tic-8h30.pdf",
+    "desc": "TIC - Mercredi 24 juin 2020 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 512825,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2020\\bac-pratique-24062020-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-24062020-tic-corrige1.zip",
+        "sizeBytes": 10612,
+        "url": "2020/bac-pratique-24062020-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-24062020-tic-corrige2.zip",
+        "sizeBytes": 11152,
+        "url": "2020/bac-pratique-24062020-tic-corrige2.zip"
+      },
+      {
+        "filename": "bac-pratique-24062020-tic-corrige3.zip",
+        "sizeBytes": 593406,
+        "url": "2020/bac-pratique-24062020-tic-corrige3.zip"
+      },
+      {
+        "filename": "bac-pratique-24062020-tic-corrige4.zip",
+        "sizeBytes": 5159,
+        "url": "2020/bac-pratique-24062020-tic-corrige4.zip"
+      },
+      {
+        "filename": "bac-pratique-24062020-tic-corrige5.zip",
+        "sizeBytes": 10793,
+        "url": "2020/bac-pratique-24062020-tic-corrige5.zip"
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "name": "bac-pratique-27052019-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2019/bac-pratique-27052019-tic-8h30.pdf",
+    "desc": "TIC - Lundi 27 mai 2019 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 233947,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2019\\bac-pratique-27052019-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-27052019-tic-corrige1.zip",
+        "sizeBytes": 7316,
+        "url": "2019/bac-pratique-27052019-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-27052019-tic-corrige2.zip",
+        "sizeBytes": 5506,
+        "url": "2019/bac-pratique-27052019-tic-corrige2.zip"
+      },
+      {
+        "filename": "bac-pratique-27052019-tic-corrige3.zip",
+        "sizeBytes": 4847,
+        "url": "2019/bac-pratique-27052019-tic-corrige3.zip"
+      },
+      {
+        "filename": "bac-pratique-27052019-tic-corrige4.zip",
+        "sizeBytes": 6333,
+        "url": "2019/bac-pratique-27052019-tic-corrige4.zip"
+      },
+      {
+        "filename": "bac-pratique-27052019-tic-corrige5.zip",
+        "sizeBytes": 7316,
+        "url": "2019/bac-pratique-27052019-tic-corrige5.zip"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "name": "bac-pratique-21052018-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2018/bac-pratique-21052018-tic-8h30.pdf",
+    "desc": "TIC - Lundi 21 mai 2018 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 259290,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2018\\bac-pratique-21052018-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-21052018-tic-corrige1.zip",
+        "sizeBytes": 360755,
+        "url": "2018/bac-pratique-21052018-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-21052018-tic-corrige2.zip",
+        "sizeBytes": 3967,
+        "url": "2018/bac-pratique-21052018-tic-corrige2.zip"
+      },
+      {
+        "filename": "bac-pratique-21052018-tic-corrige3.zip",
+        "sizeBytes": 26334,
+        "url": "2018/bac-pratique-21052018-tic-corrige3.zip"
+      },
+      {
+        "filename": "bac-pratique-21052018-tic-corrige4.zip",
+        "sizeBytes": 500,
+        "url": "2018/bac-pratique-21052018-tic-corrige4.zip"
+      },
+      {
+        "filename": "bac-pratique-21052018-tic-corrige5.zip",
+        "sizeBytes": 16705,
+        "url": "2018/bac-pratique-21052018-tic-corrige5.zip"
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "name": "bac-pratique-22052017-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2017/bac-pratique-22052017-tic-8h30.pdf",
+    "desc": "TIC - Lundi 22 mai 2017 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 344962,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2017\\bac-pratique-22052017-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-22052017-tic-corrige1.zip",
+        "sizeBytes": 607296,
+        "url": "2017/bac-pratique-22052017-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-22052017-tic-corrige2.zip",
+        "sizeBytes": 21004,
+        "url": "2017/bac-pratique-22052017-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "name": "bac-pratique-16052016-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2016/bac-pratique-16052016-tic-8h30.pdf",
+    "desc": "TIC - Lundi 16 mai 2016 (8h30 - G1)",
+    "status": "success",
+    "sizeBytes": 358307,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2016\\bac-pratique-16052016-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-16052016-tic-corrige1.zip",
+        "sizeBytes": 17305,
+        "url": "2016/bac-pratique-16052016-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-16052016-tic-corrige2.zip",
+        "sizeBytes": 15615,
+        "url": "2016/bac-pratique-16052016-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "name": "bac-pratique-18052015-tic-8h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2015/bac-pratique-18052015-tic-8h.pdf",
+    "desc": "TIC - Lundi 18 mai 2015 (8h - G1)",
+    "status": "success",
+    "sizeBytes": 355988,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2015\\bac-pratique-18052015-tic-8h.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-18052015-tic-corrige1.zip",
+        "sizeBytes": 36669,
+        "url": "2015/bac-pratique-18052015-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-18052015-tic-corrige2.zip",
+        "sizeBytes": 11852,
+        "url": "2015/bac-pratique-18052015-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "name": "bac-pratique-19052014-tic-8h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2014/bac-pratique-19052014-tic-8h.pdf",
+    "desc": "TIC - Lundi 19 mai 2014 (8h - G1)",
+    "status": "success",
+    "sizeBytes": 321919,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2014\\bac-pratique-19052014-tic-8h.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-19052014-tic-corrige1.zip",
+        "sizeBytes": 15071,
+        "url": "2014/bac-pratique-19052014-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-19052014-tic-corrige2.zip",
+        "sizeBytes": 24742,
+        "url": "2014/bac-pratique-19052014-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "name": "bac-pratique-19052014-tic-10h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2014/bac-pratique-19052014-tic-10h30.pdf",
+    "desc": "TIC - Lundi 19 mai 2014 (10h30 - G2)",
+    "status": "success",
+    "sizeBytes": 449958,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2014\\bac-pratique-19052014-tic-10h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-19052014-tic-corrige1.zip",
+        "sizeBytes": 15071,
+        "url": "2014/bac-pratique-19052014-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-19052014-tic-corrige2.zip",
+        "sizeBytes": 24742,
+        "url": "2014/bac-pratique-19052014-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "name": "bac-pratique-19052014-tic-14h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2014/bac-pratique-19052014-tic-14h.pdf",
+    "desc": "TIC - Lundi 19 mai 2014 (14h - G3)",
+    "status": "success",
+    "sizeBytes": 294188,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2014\\bac-pratique-19052014-tic-14h.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-19052014-tic-corrige1.zip",
+        "sizeBytes": 15071,
+        "url": "2014/bac-pratique-19052014-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-19052014-tic-corrige2.zip",
+        "sizeBytes": 24742,
+        "url": "2014/bac-pratique-19052014-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "name": "bac-pratique-20052013-tic-8h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2013/bac-pratique-20052013-tic-8h.pdf",
+    "desc": "TIC - Lundi 20 mai 2013 (8h - G1)",
+    "status": "success",
+    "sizeBytes": 416413,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2013\\bac-pratique-20052013-tic-8h.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-20052013-tic-corrige1.zip",
+        "sizeBytes": 31405,
+        "url": "2013/bac-pratique-20052013-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-20052013-tic-corrige2.zip",
+        "sizeBytes": 65489,
+        "url": "2013/bac-pratique-20052013-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "name": "bac-pratique-20052013-tic-10h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2013/bac-pratique-20052013-tic-10h30.pdf",
+    "desc": "TIC - Lundi 20 mai 2013 (10h30 - G2)",
+    "status": "success",
+    "sizeBytes": 361669,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2013\\bac-pratique-20052013-tic-10h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-20052013-tic-corrige1.zip",
+        "sizeBytes": 31405,
+        "url": "2013/bac-pratique-20052013-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-20052013-tic-corrige2.zip",
+        "sizeBytes": 65489,
+        "url": "2013/bac-pratique-20052013-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "name": "bac-pratique-20052013-tic-14h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2013/bac-pratique-20052013-tic-14h.pdf",
+    "desc": "TIC - Lundi 20 mai 2013 (14h - G3)",
+    "status": "success",
+    "sizeBytes": 435907,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2013\\bac-pratique-20052013-tic-14h.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-20052013-tic-corrige1.zip",
+        "sizeBytes": 31405,
+        "url": "2013/bac-pratique-20052013-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-20052013-tic-corrige2.zip",
+        "sizeBytes": 65489,
+        "url": "2013/bac-pratique-20052013-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "name": "bac-pratique-21052012-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2012/bac-pratique-21052012-tic-8h30.pdf",
+    "desc": "TIC - Lundi 21 mai 2012 (Matin G1)",
+    "status": "success",
+    "sizeBytes": 398256,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2012\\bac-pratique-21052012-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-21052012-tic-corrige1.zip",
+        "sizeBytes": 60604,
+        "url": "2012/bac-pratique-21052012-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-21052012-tic-corrige2.zip",
+        "sizeBytes": 16351,
+        "url": "2012/bac-pratique-21052012-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "name": "bac-pratique-21052012-tic-11h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2012/bac-pratique-21052012-tic-11h.pdf",
+    "desc": "TIC - Lundi 21 mai 2012 (Matin G2)",
+    "status": "success",
+    "sizeBytes": 422786,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2012\\bac-pratique-21052012-tic-11h.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-21052012-tic-corrige1.zip",
+        "sizeBytes": 60604,
+        "url": "2012/bac-pratique-21052012-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-21052012-tic-corrige2.zip",
+        "sizeBytes": 16351,
+        "url": "2012/bac-pratique-21052012-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "name": "bac-pratique-21052012-tic-14h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2012/bac-pratique-21052012-tic-14h30.pdf",
+    "desc": "TIC - Lundi 21 mai 2012 (Après-midi G1)",
+    "status": "success",
+    "sizeBytes": 496644,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2012\\bac-pratique-21052012-tic-14h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-21052012-tic-corrige1.zip",
+        "sizeBytes": 60604,
+        "url": "2012/bac-pratique-21052012-tic-corrige1.zip"
+      },
+      {
+        "filename": "bac-pratique-21052012-tic-corrige2.zip",
+        "sizeBytes": 16351,
+        "url": "2012/bac-pratique-21052012-tic-corrige2.zip"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "name": "bac-pratique-23052011-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2011/bac-pratique-23052011-tic-8h30.pdf",
+    "desc": "TIC - Lundi 23 mai 2011 (Matin G1)",
+    "status": "success",
+    "sizeBytes": 460335,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2011\\bac-pratique-23052011-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-23052011-tic-corrige1.zip",
+        "sizeBytes": 18975,
+        "url": "2011/bac-pratique-23052011-tic-corrige1.zip"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "name": "bac-pratique-23052011-tic-11h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2011/bac-pratique-23052011-tic-11h.pdf",
+    "desc": "TIC - Lundi 23 mai 2011 (Matin G2)",
+    "status": "success",
+    "sizeBytes": 432130,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2011\\bac-pratique-23052011-tic-11h.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-23052011-tic-corrige1.zip",
+        "sizeBytes": 18975,
+        "url": "2011/bac-pratique-23052011-tic-corrige1.zip"
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "name": "bac-pratique-23052011-tic-14h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2011/bac-pratique-23052011-tic-14h30.pdf",
+    "desc": "TIC - Lundi 23 mai 2011 (Après-midi G1)",
+    "status": "success",
+    "sizeBytes": 526295,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2011\\bac-pratique-23052011-tic-14h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-23052011-tic-corrige1.zip",
+        "sizeBytes": 18975,
+        "url": "2011/bac-pratique-23052011-tic-corrige1.zip"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "name": "bac-pratique-24052010-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2010/bac-pratique-24052010-tic-8h30.pdf",
+    "desc": "TIC - Lundi 24 mai 2010 (Matin G1)",
+    "status": "success",
+    "sizeBytes": 459686,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2010\\bac-pratique-24052010-tic-8h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-24052010-tic-corrige1.zip",
+        "sizeBytes": 7874,
+        "url": "2010/bac-pratique-24052010-tic-corrige1.zip"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "name": "bac-pratique-24052010-tic-11h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2010/bac-pratique-24052010-tic-11h.pdf",
+    "desc": "TIC - Lundi 24 mai 2010 (Matin G2)",
+    "status": "success",
+    "sizeBytes": 432553,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2010\\bac-pratique-24052010-tic-11h.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-24052010-tic-corrige1.zip",
+        "sizeBytes": 7874,
+        "url": "2010/bac-pratique-24052010-tic-corrige1.zip"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "name": "bac-pratique-24052010-tic-14h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2010/bac-pratique-24052010-tic-14h30.pdf",
+    "desc": "TIC - Lundi 24 mai 2010 (Après-midi G1)",
+    "status": "success",
+    "sizeBytes": 525718,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2010\\bac-pratique-24052010-tic-14h30.pdf",
+    "corriges": [
+      {
+        "filename": "bac-pratique-24052010-tic-corrige1.zip",
+        "sizeBytes": 7874,
+        "url": "2010/bac-pratique-24052010-tic-corrige1.zip"
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "name": "bac-pratique-18052009-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2009/bac-pratique-18052009-tic-8h30.pdf",
+    "desc": "TIC - Lundi 18 mai 2009 (Matin G1)",
+    "status": "success",
+    "sizeBytes": 363367,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2009\\bac-pratique-18052009-tic-8h30.pdf",
+    "corriges": []
+  },
+  {
+    "year": 2009,
+    "name": "bac-pratique-18052009-tic-11h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2009/bac-pratique-18052009-tic-11h.pdf",
+    "desc": "TIC - Lundi 18 mai 2009 (Matin G2)",
+    "status": "success",
+    "sizeBytes": 434250,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2009\\bac-pratique-18052009-tic-11h.pdf",
+    "corriges": []
+  },
+  {
+    "year": 2009,
+    "name": "bac-pratique-18052009-tic-14h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2009/bac-pratique-18052009-tic-14h30.pdf",
+    "desc": "TIC - Lundi 18 mai 2009 (Après-midi G1)",
+    "status": "success",
+    "sizeBytes": 474129,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2009\\bac-pratique-18052009-tic-14h30.pdf",
+    "corriges": []
+  },
+  {
+    "year": 2008,
+    "name": "bac-pratique-19052008-tic-8h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2008/bac-pratique-19052008-tic-8h30.pdf",
+    "desc": "TIC - Lundi 19 mai 2008 (Matin G1)",
+    "status": "success",
+    "sizeBytes": 388248,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2008\\bac-pratique-19052008-tic-8h30.pdf",
+    "corriges": []
+  },
+  {
+    "year": 2008,
+    "name": "bac-pratique-19052008-tic-11h.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2008/bac-pratique-19052008-tic-11h.pdf",
+    "desc": "TIC - Lundi 19 mai 2008 (Matin G2)",
+    "status": "success",
+    "sizeBytes": 341495,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2008\\bac-pratique-19052008-tic-11h.pdf",
+    "corriges": []
+  },
+  {
+    "year": 2008,
+    "name": "bac-pratique-19052008-tic-14h30.pdf",
+    "url": "https://kiteb.net/education/informatique/bac/bacinfo2008/bac-pratique-19052008-tic-14h30.pdf",
+    "desc": "TIC - Lundi 19 mai 2008 (Après-midi G1)",
+    "status": "success",
+    "sizeBytes": 355481,
+    "localPath": "C:\\xampp-school\\htdocs\\MesProjets\\Sujets\\2008\\bac-pratique-19052008-tic-14h30.pdf",
+    "corriges": []
+  }
+]
